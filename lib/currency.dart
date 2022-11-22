@@ -1,4 +1,4 @@
-library currency;
+library currency_package;
 
 import 'package:intl/intl.dart';
 
